@@ -1,0 +1,1 @@
+flet pack --add-data assets:assets --uac-admin -y main.py
